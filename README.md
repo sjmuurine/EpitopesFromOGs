@@ -8,6 +8,7 @@ Below are explanations and how to run them
 Before that, create a working environment for you. 
 A folder for scripts and another for data. 
 Upload the file ConservedInGramposGramnegBoth2.fa to the data folder 
+The current data folder contains the outputs the scripts produce as well as our results
 
 # The workflow:
 
