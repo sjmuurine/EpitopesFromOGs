@@ -1,0 +1,119 @@
+CONSERVATION ANALYSIS: OG0000089
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 8
+Taxa represented: 8
+Taxa: A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+Alignment length: 1690
+Average conservation: 48.66%
+Positions ≥60%: 763
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 139-169
+  Length: 30 aa
+  Conservation: 90.0%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: GDFPLMTDRGTFVINGAERVIVSQLVRSPGV
+
+Region 2:
+  Position: 191-199
+  Length: 9 aa
+  Conservation: 86.1%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: IPNRGAWLE
+
+Region 3:
+  Position: 420-429
+  Length: 10 aa
+  Conservation: 83.8%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: LFFDPKRYDL
+
+Region 4:
+  Position: 605-636
+  Length: 31 aa
+  Conservation: 90.3%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: VDDIDHLGNRRIRSVGELLQNQFRIGLARMER
+
+Region 5:
+  Position: 667-759
+  Length: 92 aa
+  Conservation: 89.5%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: IKEFFGSSQLSQFMDQTNPLAELTHKRRLSALGPGGLTRDRAGFEVRDVHYSHYGRMCPIETPEGPNIGLINSLSSYAKINEYGFIETPYRKV
+
+Region 6:
+  Position: 783-790
+  Length: 8 aa
+  Conservation: 81.2%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: YLTADEED
+
+Region 7:
+  Position: 829-871
+  Length: 42 aa
+  Conservation: 88.4%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: VDYMDVSPKQVVSVATACIPFLENDDANRALMGSNMQRQAVPL
+
+Region 8:
+  Position: 975-983
+  Length: 9 aa
+  Conservation: 80.6%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: GDVLADGPS
+
+Region 9:
+  Position: 1024-1118
+  Length: 94 aa
+  Conservation: 83.6%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: TSIHIEEYESEARDTKLGPEEITRDIPNVGEEALKDLDENGIIRIGAEVKPGDILVGKVTPKGETELSPEERLLRAIFGEKAREVRDTSLRVPHG
+
+Region 10:
+  Position: 1288-1305
+  Length: 18 aa
+  Conservation: 90.3%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: VGDKMAGRHGNKGVVSRI
+
+Region 11:
+  Position: 1316-1340
+  Length: 25 aa
+  Conservation: 91.5%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: DGTPVDIVLNPLGVPSRMNIGQVLE
+
+Region 12:
+  Position: 1409-1416
+  Length: 8 aa
+  Conservation: 92.2%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: ATPVFDGA
+
+Region 13:
+  Position: 1474-1481
+  Length: 8 aa
+  Conservation: 89.1%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: LYDGRTGE
+
+Region 14:
+  Position: 1511-1554
+  Length: 44 aa
+  Conservation: 95.5%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: GPYSLVTQQPLGGKAQFGGQRFGEMEVWALEAYGAAYTLQEILT
+
+Region 15:
+  Position: 1590-1598
+  Length: 9 aa
+  Conservation: 81.9%
+  Taxa with this region: 8 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius)
+  Sequence: KELQSLGLD
+

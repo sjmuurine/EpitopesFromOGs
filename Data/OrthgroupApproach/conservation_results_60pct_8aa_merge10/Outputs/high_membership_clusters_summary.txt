@@ -1,0 +1,597 @@
+Total clusters with 10-16 members: 40
+
+Cluster 2058: 16 members
+  Species represented: 1
+    UPI000005BD32 [unknown]
+    sp|Q8G5B7|EFTU_BIFLO [unknown]
+    sp|A5VJ92|EFTU_LIMRD [unknown]
+    WP_012420089.1 [unknown]
+    WP_005782155.1 [unknown]
+    WP_045899408.1 [unknown]
+    WP_013094997.1 [unknown]
+    WP_023620081.1 [unknown]
+    WP_002356194.1 [unknown]
+    WP_005926172.1 [unknown]
+    A0A140PU88 [unknown]
+    WP_003666836.1 [unknown]
+    WP_106777014.1 [unknown]
+    WP_002890213.1 [unknown]
+    WP_028254691.1 [unknown]
+    WP_028255446.1 [unknown]
+
+Cluster 202: 14 members
+  Species represented: 1
+    UPI00032E930E [unknown]
+    UPI0001A5C058 [unknown]
+    UPI0010126AA4 [unknown]
+    tr|Q8G871|Q8G871_BIFLO [unknown]
+    tr|A5VHJ7|A5VHJ7_LIMRD [unknown]
+    tr|A5VL60|A5VL60_LIMRD [unknown]
+    tr|A5VLL6|A5VLL6_LIMRD [unknown]
+    WP_012419120.1 [unknown]
+    WP_002386935.1 [unknown]
+    WP_002378875.1 [unknown]
+    WP_097785304.1 [unknown]
+    XOB67041.1 [unknown]
+    XOB67207.1 [unknown]
+    WP_109897265.1 [unknown]
+
+Cluster 3501: 14 members
+  Species represented: 1
+    UPI000005BD39 [unknown]
+    UPI0003C44A6F [unknown]
+    sp|Q8G414|RL2_BIFLO [unknown]
+    sp|A5VLK2|RL2_LIMRD [unknown]
+    WP_012419358.1 [unknown]
+    WP_005791545.1 [unknown]
+    WP_000301859.1 [unknown]
+    WP_002356204.1 [unknown]
+    WP_113620709.1 [unknown]
+    WP_003664563.1 [unknown]
+    WP_106777005.1 [unknown]
+    WP_064520872.1 [unknown]
+    WP_006784433.1 [unknown]
+    WP_028254686.1 [unknown]
+
+Cluster 3668: 14 members
+  Species represented: 1
+    UPI000005BD3C [unknown]
+    UPI000FD3C840 [unknown]
+    sp|P59179|RS3_BIFLO [unknown]
+    sp|A5VLJ9|RS3_LIMRD [unknown]
+    WP_012419354.1 [unknown]
+    WP_012578471.1 [unknown]
+    WP_000529945.1 [unknown]
+    WP_002356207.1 [unknown]
+    WP_005921881.1 [unknown]
+    NP_602455.1 [unknown]
+    XOB67190.1 [unknown]
+    WP_106777002.1 [unknown]
+    WP_002885727.1 [unknown]
+    WP_028254683.1 [unknown]
+
+Cluster 5021: 14 members
+  Species represented: 1
+    UPI000005BD30 [unknown]
+    UPI0001CD3F37 [unknown]
+    sp|Q8G5B5|RS7_BIFLO [unknown]
+    sp|A5VLK9|RS7_LIMRD [unknown]
+    WP_012419364.1 [unknown]
+    WP_005791536.1 [unknown]
+    WP_012578203.1 [unknown]
+    WP_003861706.1 [unknown]
+    WP_002356191.1 [unknown]
+    WP_005926179.1 [unknown]
+    NP_602384.1 [unknown]
+    WP_003668788.1 [unknown]
+    WP_106777016.1 [unknown]
+    WP_205088421.1 [unknown]
+
+Cluster 869: 13 members
+  Species represented: 1
+    UPI000005C5EF [unknown]
+    UPI00019B184E [unknown]
+    sp|Q8G7B1|ATPA_BIFLO [unknown]
+    sp|A5VIQ9|ATPA_LIMRD [unknown]
+    WP_031930302.1 [unknown]
+    WP_003862367.1 [unknown]
+    WP_002356555.1 [unknown]
+    WP_005921512.1 [unknown]
+    WP_005922243.1 [unknown]
+    XOB68273.1 [unknown]
+    WP_106777316.1 [unknown]
+    WP_014634010.1 [unknown]
+    WP_205087935.1 [unknown]
+
+Cluster 977: 13 members
+  Species represented: 1
+    UPI0003532613 [unknown]
+    UPI000163E16E [unknown]
+    sp|Q8G879|CH60_BIFLO [unknown]
+    sp|A5VIE9|CH60_LIMRD [unknown]
+    WP_042448069.1 [unknown]
+    WP_005789739.1 [unknown]
+    WP_013095260.1 [unknown]
+    WP_002362559.1 [unknown]
+    WP_113621124.1 [unknown]
+    A0A140PP62 [unknown]
+    WP_003667426.1 [unknown]
+    WP_106775875.1 [unknown]
+    WP_028255856.1 [unknown]
+
+Cluster 3498: 13 members
+  Species represented: 1
+    UPI000005C527 [unknown]
+    sp|Q8G486|RS2_BIFLO [unknown]
+    sp|A5VJC5|RS2_LIMRD [unknown]
+    WP_012419726.1 [unknown]
+    WP_005791748.1 [unknown]
+    WP_013095653.1 [unknown]
+    WP_002356759.1 [unknown]
+    WP_015538473.1 [unknown]
+    A0A140PW10 [unknown]
+    WP_003666860.1 [unknown]
+    WP_106776665.1 [unknown]
+    WP_002886342.1 [unknown]
+    WP_028255879.1 [unknown]
+
+Cluster 3844: 13 members
+  Species represented: 1
+    UPI000005C653 [unknown]
+    UPI0001CD428D [unknown]
+    sp|Q8G4T3|RL1_BIFLO [unknown]
+    tr|A5VIA5|A5VIA5_LIMRD [unknown]
+    WP_012420085.1 [unknown]
+    WP_005782161.1 [unknown]
+    WP_013095000.1 [unknown]
+    WP_002356425.1 [unknown]
+    WP_005920494.1 [unknown]
+    WP_003666300.1 [unknown]
+    WP_106777204.1 [unknown]
+    WP_006784419.1 [unknown]
+    WP_028256129.1 [unknown]
+
+Cluster 5511: 13 members
+  Species represented: 1
+    UPI000005BD35 [unknown]
+    sp|Q8G418|RS10_BIFLO [unknown]
+    sp|A5VLK6|RS10_LIMRD [unknown]
+    WP_012419362.1 [unknown]
+    WP_005782187.1 [unknown]
+    WP_001181005.1 [unknown]
+    WP_002389727.1 [unknown]
+    WP_005921888.1 [unknown]
+    A0A140PUV5 [unknown]
+    WP_003664569.1 [unknown]
+    WP_106777009.1 [unknown]
+    WP_002885653.1 [unknown]
+    WP_028254690.1 [unknown]
+
+Cluster 511: 12 members
+  Species represented: 1
+    UPI0001B2ED39 [unknown]
+    tr|Q8G3S2|Q8G3S2_BIFLO [unknown]
+    tr|A5VI64|A5VI64_LIMRD [unknown]
+    WP_013098921.1 [unknown]
+    WP_002363441.1 [unknown]
+    WP_005920330.1 [unknown]
+    WP_113621136.1 [unknown]
+    XOB68030.1 [unknown]
+    WP_106776624.1 [unknown]
+    WP_106777246.1 [unknown]
+    WP_006784886.1 [unknown]
+    WP_239447903.1 [unknown]
+
+Cluster 515: 12 members
+  Species represented: 1
+    UPI000A230053 [unknown]
+    UPI0001D15794 [unknown]
+    sp|Q8G5B6|EFG_BIFLO [unknown]
+    sp|A5VLK8|EFG_LIMRD [unknown]
+    WP_012419363.1 [unknown]
+    WP_005791539.1 [unknown]
+    WP_013099032.1 [unknown]
+    WP_002356192.1 [unknown]
+    WP_081028376.1 [unknown]
+    XOB67198.1 [unknown]
+    WP_106777015.1 [unknown]
+    WP_002891917.1 [unknown]
+
+Cluster 679: 12 members
+  Species represented: 1
+    UPI0001B2BB78 [unknown]
+    sp|Q8G6W1|DNAK_BIFLO [unknown]
+    sp|A5VJE7|DNAK_LIMRD [unknown]
+    WP_012420444.1 [unknown]
+    WP_005785809.1 [unknown]
+    WP_013095521.1 [unknown]
+    WP_002357825.1 [unknown]
+    WP_005925254.1 [unknown]
+    WP_097782944.1 [unknown]
+    XOB68516.1 [unknown]
+    WP_106776726.1 [unknown]
+    WP_028255939.1 [unknown]
+
+Cluster 1688: 12 members
+  Species represented: 1
+    UPI000005C38F [unknown]
+    UPI000793C7DB [unknown]
+    sp|Q8G5I9|ENO_BIFLO [unknown]
+    WP_012420224.1 [unknown]
+    WP_005785741.1 [unknown]
+    WP_176682060.1 [unknown]
+    WP_002357098.1 [unknown]
+    WP_015537309.1 [unknown]
+    XOB68201.1 [unknown]
+    WP_106776033.1 [unknown]
+    WP_002886048.1 [unknown]
+    WP_028255786.1 [unknown]
+
+Cluster 2307: 12 members
+  Species represented: 1
+    UPI000175BD68 [unknown]
+    UPI0000E74E4C [unknown]
+    sp|Q8G3Z3|RPOA_BIFLO [unknown]
+    sp|A5VLH9|RPOA_LIMRD [unknown]
+    WP_012420541.1 [unknown]
+    WP_005782229.1 [unknown]
+    WP_002919219.1 [unknown]
+    WP_002356227.1 [unknown]
+    WP_015537248.1 [unknown]
+    WP_003664530.1 [unknown]
+    WP_091975834.1 [unknown]
+    WP_106776984.1 [unknown]
+
+Cluster 4096: 12 members
+  Species represented: 1
+    UPI0001B6C014 [unknown]
+    UPI000272D709 [unknown]
+    sp|P59122|RS5_BIFLO [unknown]
+    sp|A5VLI8|RS5_LIMRD [unknown]
+    WP_012419977.1 [unknown]
+    WP_005791564.1 [unknown]
+    WP_003863299.1 [unknown]
+    WP_002356219.1 [unknown]
+    WP_005921854.1 [unknown]
+    XOB67179.1 [unknown]
+    WP_106776992.1 [unknown]
+    WP_205088362.1 [unknown]
+
+Cluster 4593: 12 members
+  Species represented: 1
+    UPI00132569AE [unknown]
+    UPI0001603784 [unknown]
+    sp|Q8G406|RL5_BIFLO [unknown]
+    sp|A5VLJ3|RL5_LIMRD [unknown]
+    WP_012419973.1 [unknown]
+    WP_001096202.1 [unknown]
+    WP_002356213.1 [unknown]
+    WP_005921869.1 [unknown]
+    A0A140PTM6 [unknown]
+    WP_003668784.1 [unknown]
+    WP_106776997.1 [unknown]
+    WP_028254678.1 [unknown]
+
+Cluster 4953: 12 members
+  Species represented: 1
+    UPI0010C1E16A [unknown]
+    UPI000798E8CF [unknown]
+    sp|Q8G423|RS9_BIFLO [unknown]
+    tr|A5VLH2|A5VLH2_LIMRD [unknown]
+    WP_012420275.1 [unknown]
+    WP_005791749.1 [unknown]
+    WP_000829818.1 [unknown]
+    WP_002354786.1 [unknown]
+    WP_005921092.1 [unknown]
+    WP_003668771.1 [unknown]
+    WP_106776965.1 [unknown]
+    WP_028254618.1 [unknown]
+
+Cluster 5171: 12 members
+  Species represented: 1
+    UPI000005BD3D [unknown]
+    sp|Q8G411|RL16_BIFLO [unknown]
+    sp|A5VLJ8|RL16_LIMRD [unknown]
+    WP_012419353.1 [unknown]
+    WP_005791549.1 [unknown]
+    WP_012578470.1 [unknown]
+    WP_002919759.1 [unknown]
+    WP_002356208.1 [unknown]
+    WP_005921880.1 [unknown]
+    WP_003664555.1 [unknown]
+    WP_106777001.1 [unknown]
+    WP_028254682.1 [unknown]
+
+Cluster 5249: 12 members
+  Species represented: 1
+    UPI000005BD4F [unknown]
+    sp|Q5KQA1|RS11_BIFLO [unknown]
+    sp|A5VLI0|RS11_LIMRD [unknown]
+    WP_123044210.1 [unknown]
+    WP_004296327.1 [unknown]
+    WP_003031137.1 [unknown]
+    WP_002356226.1 [unknown]
+    WP_005921825.1 [unknown]
+    WP_003664532.1 [unknown]
+    WP_091975833.1 [unknown]
+    WP_002885718.1 [unknown]
+    WP_028254666.1 [unknown]
+
+Cluster 5274: 12 members
+  Species represented: 1
+    UPI000330B480 [unknown]
+    sp|Q8G404|RS8_BIFLO [unknown]
+    sp|A5VLJ1|RS8_LIMRD [unknown]
+    WP_012419974.1 [unknown]
+    WP_005782213.1 [unknown]
+    WP_013099025.1 [unknown]
+    WP_002356215.1 [unknown]
+    WP_005921861.1 [unknown]
+    A0A140PTC5 [unknown]
+    WP_003664546.1 [unknown]
+    WP_106776995.1 [unknown]
+    WP_028254676.1 [unknown]
+
+Cluster 5294: 12 members
+  Species represented: 1
+    UPI0001E70546 [unknown]
+    sp|A5VKN2|RL19_LIMRD [unknown]
+    WP_012419257.1 [unknown]
+    WP_005778830.1 [unknown]
+    WP_007051394.1 [unknown]
+    WP_002914145.1 [unknown]
+    WP_002357176.1 [unknown]
+    WP_015538550.1 [unknown]
+    WP_003675625.1 [unknown]
+    WP_106776470.1 [unknown]
+    WP_002883489.1 [unknown]
+    WP_028256013.1 [unknown]
+
+Cluster 5331: 12 members
+  Species represented: 1
+    UPI000005BFB9 [unknown]
+    sp|Q8G4L1|RL20_BIFLO [unknown]
+    sp|A5VKX2|RL20_LIMRD [unknown]
+    WP_012420593.1 [unknown]
+    WP_005786577.1 [unknown]
+    WP_007052594.1 [unknown]
+    WP_000124850.1 [unknown]
+    WP_002403714.1 [unknown]
+    WP_002355799.1 [unknown]
+    WP_113621393.1 [unknown]
+    WP_003675747.1 [unknown]
+    WP_028255626.1 [unknown]
+
+Cluster 5344: 12 members
+  Species represented: 1
+    UPI000005BD4E [unknown]
+    sp|Q8G3Z5|RS13_BIFLO [unknown]
+    sp|A5VLI1|RS13_LIMRD [unknown]
+    WP_012419492.1 [unknown]
+    WP_002558050.1 [unknown]
+    WP_013099021.1 [unknown]
+    WP_002356225.1 [unknown]
+    WP_005921827.1 [unknown]
+    A0A140PP79 [unknown]
+    WP_003668778.1 [unknown]
+    WP_106776985.1 [unknown]
+    WP_028254667.1 [unknown]
+
+Cluster 299: 11 members
+  Species represented: 1
+    UPI000005BC80 [unknown]
+    UPI0001F0CD7A [unknown]
+    tr|Q8G6K5|Q8G6K5_BIFLO [unknown]
+    WP_102745728.1 [unknown]
+    WP_013094780.1 [unknown]
+    WP_002381887.1 [unknown]
+    WP_002359210.1 [unknown]
+    WP_005924236.1 [unknown]
+    WP_109883341.1 [unknown]
+    XOB68964.1 [unknown]
+    WP_106777078.1 [unknown]
+
+Cluster 1293: 11 members
+  Species represented: 1
+    UPI000005C5ED [unknown]
+    UPI0001D15692 [unknown]
+    sp|Q8G7B3|ATPB_BIFLO [unknown]
+    sp|A5VIR1|ATPB_LIMRD [unknown]
+    WP_003862362.1 [unknown]
+    WP_002356558.1 [unknown]
+    WP_005921508.1 [unknown]
+    WP_005922238.1 [unknown]
+    WP_003666573.1 [unknown]
+    WP_106777318.1 [unknown]
+    WP_028254556.1 [unknown]
+
+Cluster 1914: 11 members
+  Species represented: 1
+    UPI000005BD7D [unknown]
+    UPI0001B1DFEA [unknown]
+    WP_012420366.1 [unknown]
+    WP_044158666.1 [unknown]
+    WP_002365152.1 [unknown]
+    WP_002358339.1 [unknown]
+    WP_005921012.1 [unknown]
+    XOB68845.1 [unknown]
+    WP_106776016.1 [unknown]
+    WP_002885574.1 [unknown]
+    WP_028255734.1 [unknown]
+
+Cluster 2569: 11 members
+  Species represented: 1
+    tr|A5VIR5|A5VIR5_LIMRD [unknown]
+    tr|A5VIV6|A5VIV6_LIMRD [unknown]
+    WP_012419593.1 [unknown]
+    WP_005792050.1 [unknown]
+    WP_000913396.1 [unknown]
+    WP_015538108.1 [unknown]
+    WP_112090338.1 [unknown]
+    WP_003666578.1 [unknown]
+    WP_003666650.1 [unknown]
+    WP_106775839.1 [unknown]
+    WP_106776871.1 [unknown]
+
+Cluster 4268: 11 members
+  Species represented: 1
+    UPI000005BD36 [unknown]
+    sp|Q8G417|RL3_BIFLO [unknown]
+    sp|A5VLK5|RL3_LIMRD [unknown]
+    WP_012419361.1 [unknown]
+    WP_005782189.1 [unknown]
+    WP_003863274.1 [unknown]
+    WP_002356199.1 [unknown]
+    WP_005921887.1 [unknown]
+    WP_003664567.1 [unknown]
+    WP_106777008.1 [unknown]
+    WP_205088360.1 [unknown]
+
+Cluster 4441: 11 members
+  Species represented: 1
+    UPI000005C79E [unknown]
+    UPI00020CF578 [unknown]
+    sp|A5VIU4|RS4_LIMRD [unknown]
+    WP_005791575.1 [unknown]
+    ADF64201.1 [unknown]
+    WP_002365342.1 [unknown]
+    WP_005921823.1 [unknown]
+    WP_003666632.1 [unknown]
+    WP_106777438.1 [unknown]
+    WP_002885833.1 [unknown]
+    WP_028254651.1 [unknown]
+
+Cluster 5082: 11 members
+  Species represented: 1
+    UPI0015812374 [unknown]
+    sp|Q8G424|RL13_BIFLO [unknown]
+    sp|A5VLH3|RL13_LIMRD [unknown]
+    WP_012420274.1 [unknown]
+    WP_005782434.1 [unknown]
+    WP_013098967.1 [unknown]
+    WP_048670019.1 [unknown]
+    A0A140PPW6 [unknown]
+    WP_003672672.1 [unknown]
+    WP_106776966.1 [unknown]
+    WP_028254619.1 [unknown]
+
+Cluster 5091: 11 members
+  Species represented: 1
+    UPI000005BD49 [unknown]
+    sp|Q8G400|RL15_BIFLO [unknown]
+    sp|A5VLI6|RL15_LIMRD [unknown]
+    WP_012419978.1 [unknown]
+    WP_005804135.1 [unknown]
+    WP_013099022.1 [unknown]
+    WP_002356221.1 [unknown]
+    WP_003668782.1 [unknown]
+    WP_106776990.1 [unknown]
+    WP_006784449.1 [unknown]
+    WP_028254671.1 [unknown]
+
+Cluster 5394: 11 members
+  Species represented: 1
+    UPI000175BDDB [unknown]
+    sp|Q8G412|RL22_BIFLO [unknown]
+    sp|A5VLK0|RL22_LIMRD [unknown]
+    WP_007053035.1 [unknown]
+    WP_002919773.1 [unknown]
+    WP_002356206.1 [unknown]
+    WP_097785327.1 [unknown]
+    A0A140PVG6 [unknown]
+    WP_003674888.1 [unknown]
+    WP_106777003.1 [unknown]
+    WP_028254684.1 [unknown]
+
+Cluster 5481: 11 members
+  Species represented: 1
+    UPI000175C052 [unknown]
+    sp|A5VKS5|RL21_LIMRD [unknown]
+    WP_012419537.1 [unknown]
+    WP_003025032.1 [unknown]
+    WP_002355866.1 [unknown]
+    WP_015537858.1 [unknown]
+    WP_003664009.1 [unknown]
+    WP_091974184.1 [unknown]
+    WP_106776852.1 [unknown]
+    WP_002885597.1 [unknown]
+    WP_028254762.1 [unknown]
+
+Cluster 873: 10 members
+  Species represented: 1
+    UPI000175BEE1 [unknown]
+    tr|Q8G7G3|Q8G7G3_BIFLO [unknown]
+    tr|A5VKN8|A5VKN8_LIMRD [unknown]
+    WP_012421171.1 [unknown]
+    WP_013098351.1 [unknown]
+    WP_002360194.1 [unknown]
+    WP_005920375.1 [unknown]
+    WP_107721053.1 [unknown]
+    WP_106776464.1 [unknown]
+    WP_028255026.1 [unknown]
+
+Cluster 2090: 10 members
+  Species represented: 1
+    UPI000005C7F9 [unknown]
+    sp|Q8G4G9|RECA_BIFLO [unknown]
+    sp|A5VIW7|RECA_LIMRD [unknown]
+    WP_012419715.1 [unknown]
+    WP_013098438.1 [unknown]
+    WP_002354860.1 [unknown]
+    WP_015537253.1 [unknown]
+    XOB68331.1 [unknown]
+    WP_106776453.1 [unknown]
+    WP_028254744.1 [unknown]
+
+Cluster 5205: 10 members
+  Species represented: 1
+    UPI00019CD288 [unknown]
+    sp|P59162|RS12_BIFLO [unknown]
+    sp|A5VLL0|RS12_LIMRD [unknown]
+    WP_102743996.1 [unknown]
+    WP_003815498.1 [unknown]
+    WP_002356190.1 [unknown]
+    WP_005926182.1 [unknown]
+    WP_003668789.1 [unknown]
+    WP_002884809.1 [unknown]
+    WP_028255443.1 [unknown]
+
+Cluster 5340: 10 members
+  Species represented: 1
+    UPI000005C651 [unknown]
+    sp|Q8G443|RL7_BIFLO [unknown]
+    sp|A5VIB0|RL7_LIMRD [unknown]
+    WP_005782165.1 [unknown]
+    WP_013095002.1 [unknown]
+    WP_002356427.1 [unknown]
+    WP_015537535.1 [unknown]
+    WP_003666310.1 [unknown]
+    WP_106777206.1 [unknown]
+    WP_028256131.1 [unknown]
+
+Cluster 5367: 10 members
+  Species represented: 1
+    UPI000005BD46 [unknown]
+    sp|Q8G402|RL18_BIFLO [unknown]
+    sp|A5VLI9|RL18_LIMRD [unknown]
+    WP_012419976.1 [unknown]
+    WP_005791562.1 [unknown]
+    WP_013099023.1 [unknown]
+    WP_002356218.1 [unknown]
+    WP_003664543.1 [unknown]
+    WP_106776993.1 [unknown]
+    WP_028254674.1 [unknown]
+
+Cluster 5583: 10 members
+  Species represented: 1
+    UPI000005C799 [unknown]
+    sp|Q8G448|RS15_BIFLO [unknown]
+    sp|A5VJ89|RS15_LIMRD [unknown]
+    WP_012419437.1 [unknown]
+    WP_005791955.1 [unknown]
+    WP_013098914.1 [unknown]
+    WP_002354983.1 [unknown]
+    WP_005925047.1 [unknown]
+    WP_185592921.1 [unknown]
+    WP_028255656.1 [unknown]
+

@@ -1,0 +1,112 @@
+CONSERVATION ANALYSIS: OG0000067
+======================================================================
+
+Orthogroup conservation: both
+Sequences: 9
+Taxa represented: 9
+Taxa: A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+Alignment length: 1752
+Average conservation: 47.67%
+Positions ≥60%: 728
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 39-126
+  Length: 87 aa
+  Conservation: 90.4%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: GEVKKPETINYRTLKPERDGLFCERIFGPTKDWECACGKYKRIRYKGIVCDRCGVEVTRAKVRRERMGHIELAAPVSHIWYFKGIPSR
+
+Region 2:
+  Position: 333-446
+  Length: 113 aa
+  Conservation: 92.4%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: PPDLRPMVQLDGGRFATSDLNDLYRRVINRNNRLKRLLELKAPEIIVRNEKRMLQEAVDALIDNGRRGRPVTGPGNRPLKSLSDMLKGKQGRFRQNLLGKRVDYSGRSVIVVGP
+
+Region 3:
+  Position: 459-467
+  Length: 9 aa
+  Conservation: 92.6%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: MALELFKPF
+
+Region 4:
+  Position: 506-528
+  Length: 23 aa
+  Conservation: 96.1%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: HPVLLNRAPTLHRLGIQAFEPVL
+
+Region 5:
+  Position: 543-560
+  Length: 18 aa
+  Conservation: 93.2%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: AYNADFDGDQMAVHVPLS
+
+Region 6:
+  Position: 589-596
+  Length: 8 aa
+  Conservation: 88.9%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: PSQDMVLG
+
+Region 7:
+  Position: 868-877
+  Length: 10 aa
+  Conservation: 96.7%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: QLAGMRGLMA
+
+Region 8:
+  Position: 897-938
+  Length: 41 aa
+  Conservation: 92.1%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: NFREGLSVLEYFISTHGARKGLADTALKTADSGYLTRRLVDV
+
+Region 9:
+  Position: 1190-1198
+  Length: 9 aa
+  Conservation: 85.2%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: CYGRNLATG
+
+Region 10:
+  Position: 1210-1231
+  Length: 22 aa
+  Conservation: 96.0%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: IAAQSIGEPGTQLTMRTFHTGG
+
+Region 11:
+  Position: 1431-1439
+  Length: 9 aa
+  Conservation: 92.6%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: DITQGLPRV
+
+Region 12:
+  Position: 1558-1568
+  Length: 11 aa
+  Conservation: 85.9%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: EVIVRQMLRKV
+
+Region 13:
+  Position: 1650-1678
+  Length: 28 aa
+  Conservation: 92.5%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: VLLGITKASLETNSFLSAASFQETTRVLT
+
+Region 14:
+  Position: 1699-1707
+  Length: 9 aa
+  Conservation: 92.6%
+  Taxa with this region: 9 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: GKLIPAGTG
+

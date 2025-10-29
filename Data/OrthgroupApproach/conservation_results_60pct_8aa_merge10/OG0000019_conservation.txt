@@ -1,0 +1,56 @@
+CONSERVATION ANALYSIS: OG0000019
+======================================================================
+
+Orthogroup conservation: both
+Sequences: 13
+Taxa represented: 10
+Taxa: A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+Alignment length: 365
+Average conservation: 62.09%
+Positions ≥60%: 207
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 3-19
+  Length: 17 aa
+  Conservation: 86.9%
+  Taxa with this region: 10 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna)
+  Sequence: VKVGINGFGRIGRLAFR
+
+Region 2:
+  Position: 30-51
+  Length: 21 aa
+  Conservation: 80.2%
+  Taxa with this region: 10 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna)
+  Sequence: EVVAINDLTDAEMLAHLLKYDS
+
+Region 3:
+  Position: 124-134
+  Length: 11 aa
+  Conservation: 83.2%
+  Taxa with this region: 10 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna)
+  Sequence: AGAKKVVISAP
+
+Region 4:
+  Position: 162-176
+  Length: 15 aa
+  Conservation: 90.8%
+  Taxa with this region: 10 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna)
+  Sequence: ASCTTNCLAPMAKVL
+
+Region 5:
+  Position: 187-194
+  Length: 8 aa
+  Conservation: 88.5%
+  Taxa with this region: 10 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna)
+  Sequence: MTTIHAYT
+
+Region 6:
+  Position: 208-241
+  Length: 33 aa
+  Conservation: 83.4%
+  Taxa with this region: 10 (A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna)
+  Sequence: DLRRARAAAANIIPNSTGAAKAIGLVIPELNGKL
+

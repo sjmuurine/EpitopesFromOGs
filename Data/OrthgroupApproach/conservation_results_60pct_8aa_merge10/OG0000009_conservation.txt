@@ -1,0 +1,12 @@
+CONSERVATION ANALYSIS: OG0000009
+======================================================================
+
+Orthogroup conservation: gram-
+Sequences: 16
+Taxa represented: 4
+Taxa: A_muciniphila, B_fragilis, E_cloacae, V_magna
+Alignment length: 1241
+Average conservation: 18.30%
+Positions ≥60%: 64
+
+No conserved regions found.

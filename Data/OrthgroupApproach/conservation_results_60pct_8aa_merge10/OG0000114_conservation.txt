@@ -1,0 +1,28 @@
+CONSERVATION ANALYSIS: OG0000114
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 7
+Taxa represented: 7
+Taxa: A_muciniphila, B_longum_suis, E_faecalis, F_prausnitzii, L_reuteri, S_salivarius, V_magna
+Alignment length: 142
+Average conservation: 78.57%
+Positions ≥60%: 102
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 1-12
+  Length: 12 aa
+  Conservation: 95.2%
+  Taxa with this region: 7 (A_muciniphila, B_longum_suis, E_faecalis, F_prausnitzii, L_reuteri, S_salivarius, V_magna)
+  Sequence: MPTINQLVRKGR
+
+Region 2:
+  Position: 40-117
+  Length: 77 aa
+  Conservation: 92.6%
+  Taxa with this region: 7 (A_muciniphila, B_longum_suis, E_faecalis, F_prausnitzii, L_reuteri, S_salivarius, V_magna)
+  Sequence: SPQKRGVCTRVGTMTPKKPNSALRKVARVRLSNGIEVTAYIPGIGHNLQEHSVVLIRGGRVKDLPGVRYHIVRGALDT
+

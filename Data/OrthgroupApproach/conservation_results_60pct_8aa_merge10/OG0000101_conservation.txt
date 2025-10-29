@@ -1,0 +1,21 @@
+CONSERVATION ANALYSIS: OG0000101
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 8
+Taxa represented: 8
+Taxa: B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+Alignment length: 139
+Average conservation: 53.87%
+Positions ≥60%: 70
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 120-129
+  Length: 10 aa
+  Conservation: 87.5%
+  Taxa with this region: 8 (B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna)
+  Sequence: KRTSHITVVV
+

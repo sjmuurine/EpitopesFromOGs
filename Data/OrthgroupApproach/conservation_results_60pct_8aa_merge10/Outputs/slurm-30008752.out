@@ -1,0 +1,39 @@
+================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Aug 14 2019, 14:52:16
+Command: cd-hit -i all_sequences_combined.fasta -o
+         clustered_proteins_40.fasta -c 0.40 -n 2 -M 16000 -T 8
+         -d 0 -g 1
+
+Started: Sun Oct  5 17:47:44 2025
+================================================================
+                            Output                              
+----------------------------------------------------------------
+Warning: total number of CPUs in the system is 1
+Actual number of CPUs to be used: 1
+
+total seq: 9229
+longest and shortest : 3526 and 37
+Total letters: 3508737
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 4M
+Buffer          : 1 X 11M = 11M
+Table           : 1 X 0M = 0M
+Miscellaneous   : 0M
+Total           : 16M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 1997958770
+
+comparing sequences from          0  to       9229
+.........
+     9229  finished       5702  clusters
+
+Approximated maximum memory consumption: 24M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 908.64

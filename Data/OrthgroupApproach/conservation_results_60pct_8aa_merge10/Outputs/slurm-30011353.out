@@ -1,0 +1,13 @@
+================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Aug 14 2019, 14:52:16
+Command: cd-hit -i all_sequences_combined.fasta -o
+         clustered_proteins_30.fasta -c 0.30 -n 2 -M 16000 -T 8
+         -d 0 -g 1
+
+Started: Sun Oct  5 19:03:14 2025
+================================================================
+                            Output                              
+----------------------------------------------------------------
+Warning: total number of CPUs in the system is 1
+Actual number of CPUs to be used: 1
+

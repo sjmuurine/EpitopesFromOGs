@@ -1,0 +1,12 @@
+CONSERVATION ANALYSIS: OG0000029
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 12
+Taxa represented: 6
+Taxa: E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna
+Alignment length: 1098
+Average conservation: 13.91%
+Positions ≥60%: 50
+
+No conserved regions found.

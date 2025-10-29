@@ -1,0 +1,21 @@
+CONSERVATION ANALYSIS: OG0000017
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 13
+Taxa represented: 8
+Taxa: A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+Alignment length: 758
+Average conservation: 48.86%
+Positions ≥60%: 264
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 103-110
+  Length: 8 aa
+  Conservation: 90.4%
+  Taxa with this region: 8 (A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna)
+  Sequence: NIIDTPGH
+

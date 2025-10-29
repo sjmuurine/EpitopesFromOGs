@@ -1,0 +1,12 @@
+CONSERVATION ANALYSIS: OG0000037
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 11
+Taxa represented: 7
+Taxa: B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+Alignment length: 802
+Average conservation: 26.30%
+Positions ≥60%: 48
+
+No conserved regions found.

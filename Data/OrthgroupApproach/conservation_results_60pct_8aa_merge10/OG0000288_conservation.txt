@@ -1,0 +1,21 @@
+CONSERVATION ANALYSIS: OG0000288
+======================================================================
+
+Orthogroup conservation: gram-
+Sequences: 4
+Taxa represented: 4
+Taxa: A_muciniphila, B_fragilis, E_cloacae, V_magna
+Alignment length: 102
+Average conservation: 66.91%
+Positions ≥60%: 60
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 94-102
+  Length: 9 aa
+  Conservation: 88.9%
+  Taxa with this region: 4 (A_muciniphila, B_fragilis, E_cloacae, V_magna)
+  Sequence: IPGVKKASW
+

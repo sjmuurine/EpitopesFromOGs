@@ -1,0 +1,12 @@
+CONSERVATION ANALYSIS: OG0000010
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 16
+Taxa represented: 9
+Taxa: A_muciniphila, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+Alignment length: 1488
+Average conservation: 19.38%
+Positions ≥60%: 134
+
+No conserved regions found.

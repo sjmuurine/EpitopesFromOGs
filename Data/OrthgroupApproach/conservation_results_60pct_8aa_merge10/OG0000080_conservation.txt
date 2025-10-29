@@ -1,0 +1,35 @@
+CONSERVATION ANALYSIS: OG0000080
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 9
+Taxa represented: 7
+Taxa: E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna
+Alignment length: 784
+Average conservation: 50.48%
+Positions ≥60%: 300
+
+CONSERVED REGIONS (≥8 aa, ≥60%):
+======================================================================
+
+Region 1:
+  Position: 284-380
+  Length: 96 aa
+  Conservation: 91.6%
+  Taxa with this region: 7 (E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna)
+  Sequence: LLVGPPGTGKTLLAKAVAGEAGVPFFSISGSDFVEMFVGVGASRVRDLFEQAKKNAPCIIFIDEIDAVGRQRGAGLGGGHDEREQTLNQLLVEMDGF
+
+Region 2:
+  Position: 398-412
+  Length: 15 aa
+  Conservation: 92.6%
+  Taxa with this region: 7 (E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna)
+  Sequence: LDPALLRPGRFDRQV
+
+Region 3:
+  Position: 526-535
+  Length: 10 aa
+  Conservation: 90.0%
+  Taxa with this region: 7 (E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna)
+  Sequence: VHKVTIIPRG
+

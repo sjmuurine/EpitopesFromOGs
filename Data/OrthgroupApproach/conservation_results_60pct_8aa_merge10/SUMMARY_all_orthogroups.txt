@@ -1,0 +1,672 @@
+CONSERVATION ANALYSIS SUMMARY - ALL ORTHOGROUPS
+======================================================================
+
+Parameters:
+  Conservation threshold: 60%
+  Minimum region length: 8 aa
+
+======================================================================
+Orthogroup      Gram     Taxa   Seqs   AvgCons    Regions
+======================================================================
+OG0000089       gram+    8      8      48.7%      15
+OG0000067       both     9      9      47.7%      14
+OG0000090       gram+    8      8      72.6%      9
+OG0000034       both     9      11     75.1%      8
+OG0000019       both     10     13     62.1%      6
+OG0000036       gram+    8      11     48.0%      6
+OG0000062       gram+    8      9      57.8%      6
+OG0000066       both     9      9      39.6%      5
+OG0000072       gram+    8      9      64.1%      5
+OG0000064       both     9      9      61.5%      4
+OG0000043       both     10     10     71.7%      3
+OG0000075       both     9      9      73.3%      3
+OG0000082       gram-    8      8      61.5%      3
+OG0000083       gram-    8      8      69.6%      3
+OG0000084       gram-    8      8      68.2%      3
+OG0000080       gram+    7      9      50.5%      3
+OG0000105       gram+    7      8      43.6%      3
+OG0000042       both     10     10     64.9%      2
+OG0000056       both     9      9      69.4%      2
+OG0000057       gram+    9      9      53.7%      2
+OG0000058       both     9      9      59.9%      2
+OG0000059       both     9      9      75.5%      2
+OG0000008       gram-    8      16     29.4%      2
+OG0000073       gram-    8      9      64.9%      2
+OG0000086       gram-    8      8      64.7%      2
+OG0000092       gram-    8      8      63.8%      2
+OG0000093       gram-    8      8      67.9%      2
+OG0000114       gram+    7      7      78.6%      2
+OG0000060       both     9      9      69.5%      1
+OG0000069       both     9      9      66.9%      1
+OG0000017       gram+    8      13     48.9%      1
+OG0000101       gram+    8      8      53.9%      1
+OG0000102       gram+    8      8      59.6%      1
+OG0000115       gram-    7      7      68.5%      1
+OG0000121       gram-    7      7      67.6%      1
+OG0000122       gram+    6      7      32.8%      1
+OG0000288       gram-    4      4      66.9%      1
+OG0000010       gram+    9      16     19.4%      0
+OG0000015       both     9      14     17.6%      0
+OG0000014       gram+    8      14     18.5%      0
+OG0000061       gram+    8      9      65.2%      0
+OG0000068       gram+    8      9      49.9%      0
+OG0000070       gram+    8      9      15.6%      0
+OG0000085       gram-    8      8      66.2%      0
+OG0000097       gram-    8      8      40.6%      0
+OG0000100       gram+    8      8      30.7%      0
+OG0000000       gram+    7      28     13.4%      0
+OG0000003       gram+    7      22     25.7%      0
+OG0000012       gram+    7      15     14.7%      0
+OG0000016       gram-    7      14     17.0%      0
+OG0000037       gram+    7      11     26.3%      0
+OG0000107       gram+    7      8      45.6%      0
+OG0000126       gram-    7      7      57.3%      0
+OG0000143       gram+    7      7      58.9%      0
+OG0000013       gram+    6      15     18.4%      0
+OG0000029       gram+    6      12     13.9%      0
+OG0000041       gram+    6      10     39.9%      0
+OG0000098       gram-    6      8      21.9%      0
+OG0000108       gram+    6      8      27.8%      0
+OG0000009       gram-    4      16     18.3%      0
+OG0000231       gram-    4      5      32.9%      0
+======================================================================
+
+
+TOP CANDIDATES (37 orthogroups with conserved regions):
+======================================================================
+
+
+OG0000089 (Conserved in gram+):
+  Taxa: 8, Sequences: 8
+  Average conservation: 48.7%
+  Conserved regions: 15
+    Region 1: pos 139-169 (30 aa, 90.0%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      GDFPLMTDRGTFVINGAERVIVSQLVRSPGV
+    Region 2: pos 191-199 (9 aa, 86.1%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      IPNRGAWLE
+    Region 3: pos 420-429 (10 aa, 83.8%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      LFFDPKRYDL
+    Region 4: pos 605-636 (31 aa, 90.3%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      VDDIDHLGNRRIRSVGELLQNQFRIGLARMER
+    Region 5: pos 667-759 (92 aa, 89.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      IKEFFGSSQLSQFMDQTNPLAELTHKRRLSALGPGGLTRDRAGFEVRDVHYSHYGRMCPIETPEGPNIGLINSLSSYAKINEYGFIETPYRKV
+    Region 6: pos 783-790 (8 aa, 81.2%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      YLTADEED
+    Region 7: pos 829-871 (42 aa, 88.4%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      VDYMDVSPKQVVSVATACIPFLENDDANRALMGSNMQRQAVPL
+    Region 8: pos 975-983 (9 aa, 80.6%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      GDVLADGPS
+    Region 9: pos 1024-1118 (94 aa, 83.6%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      TSIHIEEYESEARDTKLGPEEITRDIPNVGEEALKDLDENGIIRIGAEVKPGDILVGKVTPKGETELSPEERLLRAIFGEKAREVRDTSLRVPHG
+    Region 10: pos 1288-1305 (18 aa, 90.3%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      VGDKMAGRHGNKGVVSRI
+    Region 11: pos 1316-1340 (25 aa, 91.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      DGTPVDIVLNPLGVPSRMNIGQVLE
+    Region 12: pos 1409-1416 (8 aa, 92.2%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      ATPVFDGA
+    Region 13: pos 1474-1481 (8 aa, 89.1%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      LYDGRTGE
+    Region 14: pos 1511-1554 (44 aa, 95.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      GPYSLVTQQPLGGKAQFGGQRFGEMEVWALEAYGAAYTLQEILT
+    Region 15: pos 1590-1598 (9 aa, 81.9%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      KELQSLGLD
+
+OG0000067 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 47.7%
+  Conserved regions: 14
+    Region 1: pos 39-126 (87 aa, 90.4%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GEVKKPETINYRTLKPERDGLFCERIFGPTKDWECACGKYKRIRYKGIVCDRCGVEVTRAKVRRERMGHIELAAPVSHIWYFKGIPSR
+    Region 2: pos 333-446 (113 aa, 92.4%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      PPDLRPMVQLDGGRFATSDLNDLYRRVINRNNRLKRLLELKAPEIIVRNEKRMLQEAVDALIDNGRRGRPVTGPGNRPLKSLSDMLKGKQGRFRQNLLGKRVDYSGRSVIVVGP
+    Region 3: pos 459-467 (9 aa, 92.6%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      MALELFKPF
+    Region 4: pos 506-528 (23 aa, 96.1%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      HPVLLNRAPTLHRLGIQAFEPVL
+    Region 5: pos 543-560 (18 aa, 93.2%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      AYNADFDGDQMAVHVPLS
+    Region 6: pos 589-596 (8 aa, 88.9%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      PSQDMVLG
+    Region 7: pos 868-877 (10 aa, 96.7%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      QLAGMRGLMA
+    Region 8: pos 897-938 (41 aa, 92.1%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      NFREGLSVLEYFISTHGARKGLADTALKTADSGYLTRRLVDV
+    Region 9: pos 1190-1198 (9 aa, 85.2%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      CYGRNLATG
+    Region 10: pos 1210-1231 (22 aa, 96.0%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      IAAQSIGEPGTQLTMRTFHTGG
+    Region 11: pos 1431-1439 (9 aa, 92.6%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      DITQGLPRV
+    Region 12: pos 1558-1568 (11 aa, 85.9%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      EVIVRQMLRKV
+    Region 13: pos 1650-1678 (28 aa, 92.5%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      VLLGITKASLETNSFLSAASFQETTRVLT
+    Region 14: pos 1699-1707 (9 aa, 92.6%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GKLIPAGTG
+
+OG0000090 (Conserved in gram+):
+  Taxa: 8, Sequences: 8
+  Average conservation: 72.6%
+  Conserved regions: 9
+    Region 1: pos 15-27 (13 aa, 91.3%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      LDSRGNPTVEVEV
+    Region 2: pos 39-70 (31 aa, 90.7%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      VPSGASTGEHEAVELRDGDKSRYLGKGVLKAV
+    Region 3: pos 99-117 (19 aa, 90.1%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      LDGTPNKGKLGANAILGVS
+    Region 4: pos 148-196 (48 aa, 83.9%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      LPVPMMNIINGGAHADNNVDFQEFMIMPVGAPTFKEALRMGAEVFHALK
+    Region 5: pos 208-218 (11 aa, 93.2%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      VGDEGGFAPNL
+    Region 6: pos 291-303 (13 aa, 85.6%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KYPIISIEDGLDE
+    Region 7: pos 319-332 (14 aa, 93.8%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KVQLVGDDLFVTNT
+    Region 8: pos 344-360 (17 aa, 89.0%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      ANSILIKVNQIGTLTET
+    Region 9: pos 377-421 (44 aa, 91.8%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      SHRSGETEDATIADIAVATNAGQIKTGSLSRTDRVAKYNQLLRIE
+
+OG0000034 (Conserved in both):
+  Taxa: 9, Sequences: 11
+  Average conservation: 75.1%
+  Conserved regions: 8
+    Region 1: pos 11-34 (24 aa, 88.6%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KPHVNIGTIGHVDHGKTTLTAAIT
+    Region 2: pos 62-126 (64 aa, 86.8%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      ERGITINTAHVEYETENRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHILL
+    Region 3: pos 143-157 (15 aa, 83.6%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      DMVDDEELLELVEME
+    Region 4: pos 177-185 (9 aa, 84.8%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GSALKALEG
+    Region 5: pos 217-256 (39 aa, 87.4%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      DKPFLMPVEDVFSITGRGTVATGRVERGVIKVGDEVEIVG
+    Region 6: pos 297-307 (11 aa, 81.8%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      IERGQVLAKPG
+    Region 7: pos 324-367 (43 aa, 83.3%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KEEGGRHTPFFNNYRPQFYFRTTDVTGTIELPEGTEMVMPGDNV
+    Region 8: pos 382-395 (14 aa, 83.1%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GLRFAIREGGRTVG
+
+OG0000019 (Conserved in both):
+  Taxa: 10, Sequences: 13
+  Average conservation: 62.1%
+  Conserved regions: 6
+    Region 1: pos 3-19 (17 aa, 86.9%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      VKVGINGFGRIGRLAFR
+    Region 2: pos 30-51 (21 aa, 80.2%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      EVVAINDLTDAEMLAHLLKYDS
+    Region 3: pos 124-134 (11 aa, 83.2%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      AGAKKVVISAP
+    Region 4: pos 162-176 (15 aa, 90.8%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      ASCTTNCLAPMAKVL
+    Region 5: pos 187-194 (8 aa, 88.5%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      MTTIHAYT
+    Region 6: pos 208-241 (33 aa, 83.4%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      DLRRARAAAANIIPNSTGAAKAIGLVIPELNGKL
+
+OG0000036 (Conserved in gram+):
+  Taxa: 8, Sequences: 11
+  Average conservation: 48.0%
+  Conserved regions: 6
+    Region 1: pos 61-79 (19 aa, 89.0%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis
+      RALPDVRDGLKPVHRRILY
+    Region 2: pos 104-111 (8 aa, 86.4%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis
+      GKYHPHGD
+    Region 3: pos 151-159 (9 aa, 92.9%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis
+      AAMRYTEAR
+    Region 4: pos 206-220 (15 aa, 85.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis
+      GIAVGMATNIPPHNL
+    Region 5: pos 247-254 (8 aa, 86.4%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis
+      GPDFPTGG
+    Region 6: pos 410-417 (8 aa, 78.4%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis
+      RAHILEGL
+
+OG0000062 (Conserved in gram+):
+  Taxa: 8, Sequences: 9
+  Average conservation: 57.8%
+  Conserved regions: 6
+    Region 1: pos 239-252 (14 aa, 97.6%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      PIGRGQRELIIGDR
+    Region 2: pos 288-295 (8 aa, 98.6%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      IYVAIGQK
+    Region 3: pos 350-396 (46 aa, 94.2%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      VLIVYDDLSKQAVAYRELSLLLRRPPGREAYPGDVFYLHSRLLERAA
+    Region 4: pos 419-449 (31 aa, 95.7%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      TALPIIETQAGDVSAYIPTNVISITDGQIFL
+    Region 5: pos 475-482 (8 aa, 87.5%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      AQIKAMKK
+    Region 6: pos 499-508 (10 aa, 91.1%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      AFAQFGSDLD
+
+OG0000066 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 39.6%
+  Conserved regions: 5
+    Region 1: pos 664-716 (52 aa, 81.4%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      MGHVDHGKTSLLDYIRKTRVTAGEAGGITQHIGAYQVDY-NGSKITFLDTPGH
+    Region 2: pos 735-757 (22 aa, 93.9%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      LVVAADDGVMPQTIEAINHAKAA
+    Region 3: pos 963-972 (10 aa, 92.2%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KADVQGSVEA
+    Region 4: pos 1007-1019 (13 aa, 87.2%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      ASNAIIIGFNVRP
+    Region 5: pos 1116-1124 (9 aa, 91.4%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      RFKDDVKEV
+
+OG0000072 (Conserved in gram+):
+  Taxa: 8, Sequences: 9
+  Average conservation: 64.1%
+  Conserved regions: 5
+    Region 1: pos 106-113 (8 aa, 87.5%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      VGSGIGGL
+    Region 2: pos 230-238 (9 aa, 90.1%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GFVMGEGAG
+    Region 3: pos 301-309 (9 aa, 91.4%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      YINAHGTST
+    Region 4: pos 334-349 (16 aa, 94.4%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      VSSTKSMTGHLLGAAG
+    Region 5: pos 399-408 (10 aa, 93.3%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      SNSFGFGGHN
+
+OG0000064 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 61.5%
+  Conserved regions: 4
+    Region 1: pos 5-48 (43 aa, 87.6%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      SMKQLLEAGVHFGHQTRRWNPKMAKYIFTERNGIYIIDLQKTVK
+    Region 2: pos 68-79 (12 aa, 87.0%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      LFVGTKKQAQEA
+    Region 3: pos 95-103 (9 aa, 93.8%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      RWLGGMLTN
+    Region 4: pos 203-210 (8 aa, 91.7%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      NDDAIRAV
+
+OG0000043 (Conserved in both):
+  Taxa: 10, Sequences: 10
+  Average conservation: 71.7%
+  Conserved regions: 3
+    Region 1: pos 65-93 (28 aa, 87.1%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      IDFKRNKDGVPAVVKTIEYDPNRSANIAL
+    Region 2: pos 141-154 (14 aa, 80.7%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      IHNIELKPGKGGQL
+    Region 3: pos 229-237 (9 aa, 97.8%)
+      Taxa (10): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis, V_magna
+      DHPHGGGEG
+
+OG0000075 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 73.3%
+  Conserved regions: 3
+    Region 1: pos 32-39 (8 aa, 87.5%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      STFNNTIV
+    Region 2: pos 61-75 (15 aa, 85.9%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GSRKSTPFAAQMAAE
+    Region 3: pos 124-136 (13 aa, 97.4%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      PHNGCRPPKRRRV
+
+OG0000082 (Conserved in gram-):
+  Taxa: 8, Sequences: 8
+  Average conservation: 61.5%
+  Conserved regions: 3
+    Region 1: pos 3-31 (28 aa, 75.4%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      KGILGKKVGMTQVFT-ESGKLVPVTVIEA
+    Region 2: pos 114-123 (10 aa, 87.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      GTSKGKGFQG
+    Region 3: pos 160-167 (8 aa, 71.9%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      RVFKGKKL
+
+OG0000083 (Conserved in gram-):
+  Taxa: 8, Sequences: 8
+  Average conservation: 69.6%
+  Conserved regions: 3
+    Region 1: pos 4-27 (23 aa, 82.6%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      RIAGVDLPREKRVEIGLTYIYGIG
+    Region 2: pos 68-75 (8 aa, 95.3%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      VEGDLRRE
+    Region 3: pos 105-115 (11 aa, 90.9%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      TKTNARTRKGP
+
+OG0000084 (Conserved in gram-):
+  Taxa: 8, Sequences: 8
+  Average conservation: 68.2%
+  Conserved regions: 3
+    Region 1: pos 79-88 (10 aa, 82.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      LKRISKPGLR
+    Region 2: pos 102-111 (10 aa, 93.8%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      GLGIAIISTS
+    Region 3: pos 126-134 (9 aa, 84.7%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      GGEVIAYVW
+
+OG0000080 (Conserved in gram+):
+  Taxa: 7, Sequences: 9
+  Average conservation: 50.5%
+  Conserved regions: 3
+    Region 1: pos 284-380 (96 aa, 91.6%)
+      Taxa (7): E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna
+      LLVGPPGTGKTLLAKAVAGEAGVPFFSISGSDFVEMFVGVGASRVRDLFEQAKKNAPCIIFIDEIDAVGRQRGAGLGGGHDEREQTLNQLLVEMDGF
+    Region 2: pos 398-412 (15 aa, 92.6%)
+      Taxa (7): E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna
+      LDPALLRPGRFDRQV
+    Region 3: pos 526-535 (10 aa, 90.0%)
+      Taxa (7): E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna
+      VHKVTIIPRG
+
+OG0000105 (Conserved in gram+):
+  Taxa: 7, Sequences: 8
+  Average conservation: 43.6%
+  Conserved regions: 3
+    Region 1: pos 89-99 (11 aa, 85.2%)
+      Taxa (7): E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis
+      LLDTKGPEIRT
+    Region 2: pos 251-259 (9 aa, 79.2%)
+      Taxa (7): E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis
+      AKIENQEGV
+    Region 3: pos 306-353 (47 aa, 82.7%)
+      Taxa (7): E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, T_sanguinis
+      GKPVITATQMLDSMQRNPRPTRAEVSDVANAIYDGTDAIMLSGETAAG
+
+OG0000042 (Conserved in both):
+  Taxa: 10, Sequences: 10
+  Average conservation: 64.9%
+  Conserved regions: 2
+    Region 1: pos 61-69 (9 aa, 78.9%)
+      Taxa (10): A_muciniphila, B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      ETFTVRKIS
+    Region 2: pos 94-116 (22 aa, 86.4%)
+      Taxa (10): A_muciniphila, B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GKVRRAKLYYLRARTGKAARIKE
+
+OG0000056 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 69.4%
+  Conserved regions: 2
+    Region 1: pos 46-67 (21 aa, 91.5%)
+      Taxa (9): A_muciniphila, B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      RQIEAARIAMTRYIKRGGKVWI
+    Region 2: pos 115-122 (8 aa, 90.3%)
+      Taxa (9): A_muciniphila, B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      AREALRLA
+
+OG0000057 (Conserved in gram+):
+  Taxa: 9, Sequences: 9
+  Average conservation: 53.7%
+  Conserved regions: 2
+    Region 1: pos 195-202 (8 aa, 93.1%)
+      Taxa (9): A_muciniphila, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      TLRADIDY
+    Region 2: pos 214-221 (8 aa, 84.7%)
+      Taxa (9): A_muciniphila, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      IGVKVWIY
+
+OG0000058 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 59.9%
+  Conserved regions: 2
+    Region 1: pos 64-75 (12 aa, 91.7%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KPWRQKGTGRAR
+    Region 2: pos 86-93 (8 aa, 83.3%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      GGGVVFGP
+
+OG0000059 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 75.5%
+  Conserved regions: 2
+    Region 1: pos 6-45 (39 aa, 84.3%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KIRIRLKAYDHRLLDQSAEKIVETAKRTGAQVSGPIPLPT
+    Region 2: pos 60-94 (34 aa, 85.3%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      KDSREQFEMRTHKRLIDIVDPTPKTVDALMKLDLP
+
+OG0000008 (Conserved in gram-):
+  Taxa: 8, Sequences: 16
+  Average conservation: 29.4%
+  Conserved regions: 2
+    Region 1: pos 54-61 (8 aa, 87.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      AQTGTGKT
+    Region 2: pos 353-362 (10 aa, 91.9%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      HRIGRTGRAG
+
+OG0000073 (Conserved in gram-):
+  Taxa: 8, Sequences: 9
+  Average conservation: 64.9%
+  Conserved regions: 2
+    Region 1: pos 60-68 (9 aa, 93.8%)
+      Taxa (8): A_muciniphila, B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, V_magna
+      LWIARINAA
+    Region 2: pos 95-102 (8 aa, 83.3%)
+      Taxa (8): A_muciniphila, B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, V_magna
+      LADLAVND
+
+OG0000086 (Conserved in gram-):
+  Taxa: 8, Sequences: 8
+  Average conservation: 64.7%
+  Conserved regions: 2
+    Region 1: pos 2-10 (9 aa, 76.4%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, L_reuteri, P_russellii, T_sanguinis, V_magna
+      MKLHELKPA
+    Region 2: pos 50-70 (20 aa, 92.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, L_reuteri, P_russellii, T_sanguinis, V_magna
+      GFEGGQMPLYRRLPKRGFTNI
+
+OG0000092 (Conserved in gram-):
+  Taxa: 8, Sequences: 8
+  Average conservation: 63.8%
+  Conserved regions: 2
+    Region 1: pos 16-25 (10 aa, 82.5%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      VERKWYVVDA
+    Region 2: pos 111-119 (9 aa, 81.9%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      AVKGMLPKN
+
+OG0000093 (Conserved in gram-):
+  Taxa: 8, Sequences: 8
+  Average conservation: 67.9%
+  Conserved regions: 2
+    Region 1: pos 77-86 (10 aa, 85.0%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      GQAGAIRHGI
+    Region 2: pos 104-118 (15 aa, 85.8%)
+      Taxa (8): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      AGFLTRDPRMKERKK
+
+OG0000114 (Conserved in gram+):
+  Taxa: 7, Sequences: 7
+  Average conservation: 78.6%
+  Conserved regions: 2
+    Region 1: pos 1-12 (12 aa, 95.2%)
+      Taxa (7): A_muciniphila, B_longum_suis, E_faecalis, F_prausnitzii, L_reuteri, S_salivarius, V_magna
+      MPTINQLVRKGR
+    Region 2: pos 40-117 (77 aa, 92.6%)
+      Taxa (7): A_muciniphila, B_longum_suis, E_faecalis, F_prausnitzii, L_reuteri, S_salivarius, V_magna
+      SPQKRGVCTRVGTMTPKKPNSALRKVARVRLSNGIEVTAYIPGIGHNLQEHSVVLIRGGRVKDLPGVRYHIVRGALDT
+
+OG0000060 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 69.5%
+  Conserved regions: 1
+    Region 1: pos 139-146 (8 aa, 83.3%)
+      Taxa (9): A_muciniphila, B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      VKKREDTH
+
+OG0000069 (Conserved in both):
+  Taxa: 9, Sequences: 9
+  Average conservation: 66.9%
+  Conserved regions: 1
+    Region 1: pos 56-67 (12 aa, 85.2%)
+      Taxa (9): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna
+      ADQQVRGAVVLP
+
+OG0000017 (Conserved in gram+):
+  Taxa: 8, Sequences: 13
+  Average conservation: 48.9%
+  Conserved regions: 1
+    Region 1: pos 103-110 (8 aa, 90.4%)
+      Taxa (8): A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      NIIDTPGH
+
+OG0000101 (Conserved in gram+):
+  Taxa: 8, Sequences: 8
+  Average conservation: 53.9%
+  Conserved regions: 1
+    Region 1: pos 120-129 (10 aa, 87.5%)
+      Taxa (8): B_fragilis, B_longum_suis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, V_magna
+      KRTSHITVVV
+
+OG0000102 (Conserved in gram+):
+  Taxa: 8, Sequences: 8
+  Average conservation: 59.6%
+  Conserved regions: 1
+    Region 1: pos 113-121 (9 aa, 81.9%)
+      Taxa (8): B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius, V_magna
+      TRRQARQLV
+
+OG0000115 (Conserved in gram-):
+  Taxa: 7, Sequences: 7
+  Average conservation: 68.5%
+  Conserved regions: 1
+    Region 1: pos 47-58 (12 aa, 81.0%)
+      Taxa (7): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, F_prausnitzii, P_russellii, V_magna
+      KKDHHSRRGLLK
+
+OG0000121 (Conserved in gram-):
+  Taxa: 7, Sequences: 7
+  Average conservation: 67.6%
+  Conserved regions: 1
+    Region 1: pos 95-102 (8 aa, 91.1%)
+      Taxa (7): A_muciniphila, B_fragilis, E_cloacae, E_faecalis, L_reuteri, P_russellii, V_magna
+      VVFDRGGY
+
+OG0000122 (Conserved in gram+):
+  Taxa: 6, Sequences: 7
+  Average conservation: 32.8%
+  Conserved regions: 1
+    Region 1: pos 549-556 (8 aa, 94.6%)
+      Taxa (6): A_muciniphila, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, S_salivarius
+      GVVSRKKQ
+
+OG0000288 (Conserved in gram-):
+  Taxa: 4, Sequences: 4
+  Average conservation: 66.9%
+  Conserved regions: 1
+    Region 1: pos 94-102 (9 aa, 88.9%)
+      Taxa (4): A_muciniphila, B_fragilis, E_cloacae, V_magna
+      IPGVKKASW
+
+======================================================================
+SUMMARY BY GRAM CONSERVATION PATTERN:
+======================================================================
+
+gram+:
+  Total orthogroups: 29
+  With conserved regions: 13
+  Total conserved regions: 55
+
+gram-:
+  Total orthogroups: 18
+  With conserved regions: 11
+  Total conserved regions: 22
+
+both:
+  Total orthogroups: 14
+  With conserved regions: 13
+  Total conserved regions: 53
+

@@ -1,0 +1,12 @@
+CONSERVATION ANALYSIS: OG0000014
+======================================================================
+
+Orthogroup conservation: gram+
+Sequences: 14
+Taxa represented: 8
+Taxa: A_muciniphila, E_cloacae, E_faecalis, F_prausnitzii, L_reuteri, P_russellii, T_sanguinis, V_magna
+Alignment length: 1383
+Average conservation: 18.46%
+Positions ≥60%: 96
+
+No conserved regions found.
